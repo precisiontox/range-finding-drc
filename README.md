@@ -8,7 +8,7 @@ Within the EU project PrecisionTox mortality, immobilisation and cytotoxicity as
 
 ## Provided files and templates
 
-This gitlab repository provides the KNIME workflow, a template for uploading the data and instructions to execute the workflow.
+This github repository provides the KNIME workflow, a template for uploading the data and instructions to execute the workflow.
 
 ## Requirements
 
